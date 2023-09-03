@@ -2,6 +2,7 @@
   "name": "barber-website",
   "version": "0.0.0",
   "private": true,
+  "homepage": "barber-website/",
   "scripts": {
     "docusaurus": "docusaurus",
     "start": "docusaurus start",
